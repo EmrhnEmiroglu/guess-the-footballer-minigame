@@ -189,15 +189,30 @@ oyuncu-tahmin-oyunu/
 
 ## 📞 Destek
 
-- 🐛 [Issues](https://github.com/) — Hata raporu
-- 💡 [Discussions](https://github.com/) — Soru & Önerileri
+- 🐛 [Issues](https://github.com/EmrhnEmiroglu/guess-the-footballer-minigame/issues) — Hata raporu
+- 💡 [Discussions](https://github.com/EmrhnEmiroglu/guess-the-footballer-minigame/discussions) — Soru & Önerileri
 - 🤝 [Contributing](CONTRIBUTING.md) — Katkı rehberi
+
+---
+
+## 👨‍💻 Geliştirici
+
+**Emirhan Emiroğlu**
+
+- 🔗 GitHub: [@EmrhnEmiroglu](https://github.com/EmrhnEmiroglu)
+- 📧 İletişim: Proje üzerinde issue veya discussion açabilirsiniz
 
 ---
 
 ## 📝 Lisans
 
 **GPLv2 or later** — [LICENSE](LICENSE)
+
+---
+
+## ⭐ Bu Projeyi Beğendiyseniz
+
+Projeyi beğendiyseniz **bir yıldız** ⭐ vermek bizi çok mutlu eder!
 
 ---
 
