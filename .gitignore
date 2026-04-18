@@ -1,0 +1,32 @@
+# WordPress
+wp-config.php
+wp-content/uploads/
+wp-content/cache/
+wp-content/plugins/*
+!wp-content/plugins/oyuncu-tahmin-oyunu/
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# Dependencies
+node_modules/
+composer.lock
+
+# Package managers
+package-lock.json
+yarn.lock
+
+# Distribution
+dist/
+build/
+*.zip
+deneme*.zip
